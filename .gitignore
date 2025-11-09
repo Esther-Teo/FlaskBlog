@@ -1,1 +1,7 @@
-.env
+venv/
+.env/
+.env.bak/
+*.pyc
+__pycache__/
+instance/
+site.db
